@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Test Site 2</title>
+    <link href="https://static-test.avramie.stream/feed.xml" rel="self" />
+    <link href="https://static-test.avramie.stream" />
+    <updated>2024-09-01T11:55:31-07:00</updated>
+    <author>
+        <name>Abe Kanofsky</name>
+    </author>
+    <id>https://static-test.avramie.stream</id>
+
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>Abe Kanofsky</name>
+        </author>
+        <link href="https://static-test.avramie.stream/test-post.html"/>
+        <id>https://static-test.avramie.stream/test-post.html</id>
+
+        <updated>2024-09-01T11:55:31-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque ut lectus ac ultrices. Maecenas placerat non arcu laoreet fringilla. Maecenas eleifend dui purus, a eleifend purus pellentesque et. Donec placerat, tortor ac fringilla porta, felis augue rutrum urna, eget fringilla nunc massa suscipit augue.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque ut lectus ac ultrices. Maecenas placerat non arcu laoreet fringilla. Maecenas eleifend dui purus, a eleifend purus pellentesque et. Donec placerat, tortor ac fringilla porta, felis augue rutrum urna, eget fringilla nunc massa suscipit augue. Quisque a diam lacus. Maecenas elementum, justo eget laoreet aliquam, lectus dolor interdum purus, ac dignissim ligula nisl eget turpis. Morbi rutrum eget ante quis aliquam.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://static-test.avramie.stream/sitemap.xml
